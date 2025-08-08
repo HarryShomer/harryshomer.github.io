@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://hshomer.github.io/sitemap.xml
+Sitemap: https://harryshomer.github.io//sitemap.xml
