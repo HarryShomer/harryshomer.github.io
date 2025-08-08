@@ -7,35 +7,35 @@ ninja.data = [{
     title: "About",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/hshomer.github.io/";
+      window.location.href = "/";
     },
   },{id: "nav-publications",
           title: "Publications",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/hshomer.github.io/publications/";
+            window.location.href = "/publications/";
           },
         },{id: "nav-teaching",
           title: "Teaching",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/hshomer.github.io/teaching/";
+            window.location.href = "/teaching/";
           },
         },{id: "nav-service",
           title: "Service",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/hshomer.github.io/service/";
+            window.location.href = "/service/";
           },
         },{id: "nav-cv",
           title: "CV",
           description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/hshomer.github.io/CV.pdf";
+            window.location.href = "/CV.pdf";
           },
         },{id: "news-awarded-the-msu-engineering-distinguished-fellowship",
           title: 'Awarded the MSU Engineering Distinguished Fellowship.',
