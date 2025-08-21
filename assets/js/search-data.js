@@ -157,6 +157,9 @@ ninja.data = [{
           section: "News",},{id: "news-new-preprint-on-using-data-augmentation-to-improve-link-prediction-generalization-on-ood-samples-pdf",
           title: 'New preprint on using data augmentation to improve link prediction generalization on OOD...',
           description: "",
+          section: "News",},{id: "news-one-paper-accepted-by-emnlp-main-pdf",
+          title: 'One paper accepted by EMNLP (main)! [pdf]',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
