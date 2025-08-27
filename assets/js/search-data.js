@@ -160,6 +160,9 @@ ninja.data = [{
           section: "News",},{id: "news-one-paper-accepted-by-emnlp-main-pdf",
           title: 'One paper accepted by EMNLP (main)! [pdf]',
           description: "",
+          section: "News",},{id: "news-lpformer-was-just-merged-into-pytorch-geometric-check-it-out-here",
+          title: 'LPFormer was just merged into PyTorch Geometric. Check it out here!',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
