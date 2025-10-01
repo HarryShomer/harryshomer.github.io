@@ -163,6 +163,9 @@ ninja.data = [{
           section: "News",},{id: "news-lpformer-was-just-merged-into-pytorch-geometric-check-it-out-here",
           title: 'LPFormer was just merged into PyTorch Geometric. Check it out here!',
           description: "",
+          section: "News",},{id: "news-new-preprint-on-iterative-retrieval-for-graphrag-pdf",
+          title: 'New preprint on iterative retrieval for GraphRAG [pdf]',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
