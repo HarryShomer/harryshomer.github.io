@@ -166,6 +166,9 @@ ninja.data = [{
           section: "News",},{id: "news-new-preprint-on-iterative-retrieval-for-graphrag-pdf",
           title: 'New preprint on iterative retrieval for GraphRAG [pdf]',
           description: "",
+          section: "News",},{id: "news-new-preprint-on-a-unified-framework-for-retrieval-generation-on-graphs-pdf",
+          title: 'New preprint on a unified framework for retrieval+generation on graphs [pdf]',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
