@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-students",
+          title: "Students",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/students/";
+          },
         },{id: "nav-teaching",
           title: "Teaching",
           description: "",
@@ -171,6 +178,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-we-will-be-giving-a-tutorial-on-democratizing-rags-with-structured-knowledge-at-wsdm-26",
           title: 'We will be giving a tutorial on “Democratizing RAGs with Structured Knowledge” at...',
+          description: "",
+          section: "News",},{id: "news-one-paper-accepted-by-thewebconf-pdf",
+          title: 'One paper accepted by TheWebConf! [pdf]',
           description: "",
           section: "News",},{
         id: 'social-email',
