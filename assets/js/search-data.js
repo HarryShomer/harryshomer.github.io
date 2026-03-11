@@ -182,6 +182,9 @@ ninja.data = [{
           section: "News",},{id: "news-one-paper-accepted-by-thewebconf-pdf",
           title: 'One paper accepted by TheWebConf! [pdf]',
           description: "",
+          section: "News",},{id: "news-new-preprint-are-expressive-encoders-necessary-for-discrete-graph-generation-pdf",
+          title: 'New preprint - “Are Expressive Encoders Necessary for Discrete Graph Generation?” [pdf]',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
