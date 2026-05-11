@@ -185,6 +185,9 @@ ninja.data = [{
           section: "News",},{id: "news-new-preprint-are-expressive-encoders-necessary-for-discrete-graph-generation-pdf",
           title: 'New preprint - “Are Expressive Encoders Necessary for Discrete Graph Generation?” [pdf]',
           description: "",
+          section: "News",},{id: "news-one-reu-project-understanding-and-enhancing-inductive-link-predictors-on-graphs-got-selected-for-departmental-support-thank-you-cse-uta-and-the-cra-ur2phd-program",
+          title: 'One REU project “Understanding and Enhancing Inductive Link Predictors on Graphs” got selected...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
