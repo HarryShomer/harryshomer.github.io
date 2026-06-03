@@ -191,6 +191,9 @@ ninja.data = [{
           section: "News",},{id: "news-one-paper-accepted-by-kdd-pdf",
           title: 'One paper accepted by KDD! [pdf]',
           description: "",
+          section: "News",},{id: "news-i-received-the-2026-inns-doctoral-dissertation-runner-up-award",
+          title: 'I received the 2026 INNS Doctoral Dissertation Runner-up Award',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
