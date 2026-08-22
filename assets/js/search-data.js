@@ -197,6 +197,9 @@ ninja.data = [{
           section: "News",},{id: "news-one-paper-accepted-by-sdm-26-pdf",
           title: 'One paper accepted by SDM’26! [pdf]',
           description: "",
+          section: "News",},{id: "news-one-paper-accepted-by-emnlp-26-main-pdf",
+          title: 'One paper accepted by EMNLP’26 (main)! [pdf]',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
