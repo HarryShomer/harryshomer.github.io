@@ -200,6 +200,9 @@ ninja.data = [{
           section: "News",},{id: "news-one-paper-accepted-by-emnlp-26-main-pdf",
           title: 'One paper accepted by EMNLP’26 (main)! [pdf]',
           description: "",
+          section: "News",},{id: "news-new-preprint-on-latent-graph-generation-pdf",
+          title: 'New preprint on latent graph generation [pdf]',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
